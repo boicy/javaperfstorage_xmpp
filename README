@@ -1,0 +1,2 @@
+This is a component of the performsbadly suite of performance testing tools.
+It reads all messages from a chatroom and persists them to a document store. Maybe in time there will be other components that read, graph etc them.
